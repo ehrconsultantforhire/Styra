@@ -1,0 +1,6 @@
+{
+  "name": "Styra",
+  "description": "Smart AI-powered wardobe stylist recommending cohesive outfits based on weather, events, and personalized style profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
